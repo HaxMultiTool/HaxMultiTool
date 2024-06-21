@@ -11,7 +11,7 @@ Hax MutliTool is a batch-based multitool program. You can find it @ https://cmdh
 > Soon coming more...
 
 # Who's developing Hax MultiTool?
-1. [Uzif](https://github.com/uzif)
+1. [Uzif](https://github.com/uziff)
 
 > i tried asking [Psi505](https://github.com/psi505) for this project but he was too busy. also, Alepas1403 was working on
 > the project until he left because of studying and work.
