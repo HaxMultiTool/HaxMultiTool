@@ -8,6 +8,7 @@ Hax MutliTool is a batch-based multitool program. You can find it @ https://cmdh
 
 # What's the links to Hax MultiTool?
 - <https://cmdhax.xyz/>
+- <https://dsc.gg/haxed>
 > Soon coming more...
 
 # Who's developing Hax MultiTool?
