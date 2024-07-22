@@ -19,6 +19,9 @@ Hax MutliTool is a batch-based multitool program. You can find it @ https://cmdh
 - <https://instagram.com/cmdhax.xyz/>
 > Soon coming more...
 
+**Donations:**
+- <https://paypal.me/haxmultitool/>
+
 # Who's developing Hax MultiTool?
 1. [Uzif](https://github.com/uziff)
 
