@@ -12,12 +12,12 @@ Hax MutliTool is a batch-based multitool program. You can find it @ https://cmdh
 - <https://haxs.dev/> (in construction)
 - <https://solo.to/haxed> (in construction)
 
-**Socials:**
+**Socials and contacts:**
 - <https://dsc.gg/haxed>
 - <https://github.com/HaxMultiTool/>
 - <https://youtube.com/@HaxMultiTool>
-- <https://instagram.com/cmdhax.xyz/>
-> Soon coming more...
+- <https://instagram.com/cmdhax.xyz/
+> Soon coming more..
 
 **Donations:**
 - <https://paypal.me/haxmultitool/>
